@@ -1,0 +1,1 @@
+https://docs.aws.amazon.com/amazonglacier/latest/dev/checksum-calculations.html
