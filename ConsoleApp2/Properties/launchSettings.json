@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\cambio~1\\PadronFotografico.7z"
+    }
+  }
+}
